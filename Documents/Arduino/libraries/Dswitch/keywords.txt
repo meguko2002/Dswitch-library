@@ -1,0 +1,3 @@
+Dswitch	KEYWORD1
+state	KEYWORD2
+call	KEYWORD2
